@@ -147,8 +147,7 @@ namespace CMP1903M
             _balance = _balance - _balance;
             Console.WriteLine($"Your balance is now £{_balance}");
             System.Environment.Exit(0);
-            //stinky//
-            //stinky//
+            //commenting//
         }
 
     }
